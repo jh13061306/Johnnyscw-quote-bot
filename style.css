@@ -1,3 +1,9 @@
+ Black 000000
+ Blue 14213D
+ Orange FCA311
+ Grey E5E5E5
+ White FFFFFF
+
 * {
     margin: 0;
     padding: 0;
@@ -5,9 +11,9 @@
 }
 
 html {
-    background-color: #da14b3;
-    font-family: 'Space Grotesk', sans-serif;
-    color: #1212b2;
+    background-color: #FCA311;
+    font-family: 'Raleway', sans-serif;
+    color: #E5E5E5;
     line-height: 1.2;
 }
 
@@ -18,7 +24,7 @@ h1 {
 }
 
 header {
-    background-color: #E9F45B;
+    background-color: #14213D;
     padding: 32px;
     text-align: center;
 }
